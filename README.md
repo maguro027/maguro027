@@ -10,8 +10,8 @@
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maguro027&show_icons=true&theme=tokyonight)](https://github.com/maguro027)
-[![Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maguro027&layout=compact&theme=tokyonight)](https://github.com/maguro027)
+[<image-card alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maguro027&show_icons=true&theme=radical" ></image-card>](https://github.com/maguro027)
+[<image-card alt="Main Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maguro027&layout=compact&theme=radical" ></image-card>](https://github.com/maguro027)
 
 ---
 
