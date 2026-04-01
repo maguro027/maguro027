@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🍣 How to Make Sushi 🍣
 
-<!--
-**maguro027/maguro027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello, I’m maguro027** — a Pacific Bluefin Tuna desperately trying to become sushi.
 
-Here are some ideas to get you started:
+### My Super-Serious Guide to Making Sushi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Step 1.** Find a town with delicious water  
+**Step 2.** Buy farmland  
+**Step 3.** Buy Farm Tools and Machinery
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maguro027&show_icons=true&theme=tokyonight)](https://github.com/maguro027)
+[![Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maguro027&layout=compact&theme=tokyonight)](https://github.com/maguro027)
+
+---
+
+**Warning**: In Japan, if you don’t take food seriously… it could be a matter of life and death.  
+(Especially when the tuna is trying to make itself into sushi.)
