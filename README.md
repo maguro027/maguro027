@@ -17,8 +17,6 @@ Let's make the best damn sushi together!!
 **Step 4.** Coming soon... (when the time is right 🕒)
 
 ---
-![UUID for U](https://uuid-for-u.maguro027.workers.dev/)
-
 ### 🚀 Activities
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maguro027&theme=github)](https://github.com/maguro027)
 
